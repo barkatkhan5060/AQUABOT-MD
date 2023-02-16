@@ -1,6 +1,6 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "☛⃟⚉≛₊̵ⷡ₉̵ⷽ₂̵ᷢ₃̵ⷦ₀̵ⷽ₅̵ⷮ₂̵₁̵ⷡ₉̵ⷽ₉̵ᷞ₃̵ⷪ₄̵ⷭ₂̵ⷩ≛⚉⃟☚",
+    "description": "Barkat  - Khosa Baloch.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
@@ -43,7 +43,7 @@
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "923052199342" ,
             "required": true
              },
        
@@ -55,7 +55,7 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊☛⃟⚉≛₊̵ⷡ₉̵ⷽ₂̵ᷢ₃̵ⷦ₀̵ⷽ₅̵ⷮ₂̵₁̵ⷡ₉̵ⷽ₉̵ᷞ₃̵ⷪ₄̵ⷭ₂̵ⷩ≛⚉⃟☚🎊" ,
             "required": true
       },
            "URL_1LINK": {
@@ -75,7 +75,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "☛⃟⚉≛₊̵ⷡ₉̵ⷽ₂̵ᷢ₃̵ⷦ₀̵ⷽ₅̵ⷮ₂̵₁̵ⷡ₉̵ⷽ₉̵ᷞ₃̵ⷪ₄̵ⷭ₂̵ⷩ≛⚉⃟☚" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© ☛⃟⚉≛₊̵ⷡ₉̵ⷽ₂̵ᷢ₃̵ⷦ₀̵ⷽ₅̵ⷮ₂̵₁̵ⷡ₉̵ⷽ₉̵ᷞ₃̵ⷪ₄̵ⷭ₂̵ⷩ≛⚉⃟☚ ²⁰²³" ,
             "required": true
       },
        "INBOX_BLOCK": {
